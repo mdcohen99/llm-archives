@@ -22,4 +22,6 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+This seems generally pretty solid in terms of the model's ability to parse out the important information. It generally got all the locations right and people's names and such. In the sake of using AI to read articles like this, there may not be a ton of utility out of these pieces of information. 
+
+To me, I see the utility more so in basically using it as a more accurate version of using "control F" in a large set of records. If, for example, I was writing this story about Tommy Tuberville's residency, I may have large sets of documents regarding his information/address history/voting history and it may be too much to be able to read and control F isn't always fully reliable, especially in PDFs. This seems like a much better method of looking for something in a large set of documents if, say, I was trying to find Tuberville's name amidst the documents to prove he was connected to x or y. 
